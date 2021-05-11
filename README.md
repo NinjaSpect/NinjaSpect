@@ -1,2 +1,2 @@
-# NinjaSpect
-I don't know why I made this repository.
+# Ninja Spect
+We are an educational organisation!
