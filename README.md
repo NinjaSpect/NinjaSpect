@@ -8,6 +8,11 @@ Ninja Spect helps students achieve mastery in a range of subjects and become a k
 ## About
 Ninja Spect was created to enhance online education and help students love learning. Unlike most learning platforms, Ninja Spect covers many fundamental subjects and creates a deep understanding of these subjects through games, videos and interactive lessons. We can almost guarantee that your school, student or child will enjoy Ninja Spect and make the most out of it.
 
+## Links
+
 [GitHub Website](https://ninjaspect.github.io)
 
 [Website](https://ninjaspect.rf.gd)
+
+## Owner
+[The Shroud Ninja](https://github.com/samuraininja360)
